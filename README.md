@@ -1,4 +1,4 @@
-# A guide to building and running OpenCV in an ACAP application
+# A guide to building and running ArUco OpenCV in an ACAP application
 
 This guide explains how to build OpenCV from source and bundle it for use in an
 ACAP application. The example application runs a background subtraction
